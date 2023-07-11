@@ -10,7 +10,8 @@
   );
 }
 
-.plasmic_default_styles {
+.plasmic_default_styles,
+.plasmic_default_styles:where(.global_unnamedGlobalGroupOfVariants_unnamedVariant) {
   --mixin-MsdqefJq-4g_font-family: "Inter", sans-serif;
   --mixin-MsdqefJq-4g_font-size: 14px;
   --mixin-MsdqefJq-4g_font-weight: 400;
