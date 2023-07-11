@@ -330,6 +330,19 @@
           "cssFilePath": "plasmic/app_starter/PlasmicTestProject.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "tvb57mWHpJ",
+          "name": "Companies",
+          "type": "managed",
+          "projectId": "rwUYFoLZwHEqYodpMb7shh",
+          "renderModuleFilePath": "plasmic/app_starter/PlasmicCompanies.jsx",
+          "importSpec": {
+            "modulePath": "Companies.jsx"
+          },
+          "cssFilePath": "plasmic/app_starter/PlasmicCompanies.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
       "icons": [
@@ -516,6 +529,12 @@
         "name": "Screen",
         "projectId": "rwUYFoLZwHEqYodpMb7shh",
         "contextFilePath": "plasmic/app_starter/PlasmicGlobalVariant__Screen.jsx"
+      },
+      {
+        "id": "9rOftC9dC-",
+        "name": "UnnamedGlobalGroupOfVariants",
+        "projectId": "rwUYFoLZwHEqYodpMb7shh",
+        "contextFilePath": "plasmic/app_starter/PlasmicGlobalVariant__UnnamedGlobalGroupOfVariants.jsx"
       }
     ]
   },
